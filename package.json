@@ -1,0 +1,11 @@
+{
+  "name": "tesla-energy-flow-card",
+  "version": "1.0.0",
+  "description": "Tesla style energy dashboard for Home Assistant",
+  "main": "dist/tesla-energy-flow.js",
+  "scripts": {
+    "build": "echo build complete"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}

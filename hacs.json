@@ -1,7 +1,5 @@
 {
   "name": "Tesla Energy Flow Card",
-  "content_in_root": false,
   "filename": "tesla-energy-flow.js",
-  "render_readme": true,
-  "homeassistant": "2024.1.0"
+  "render_readme": true
 }
